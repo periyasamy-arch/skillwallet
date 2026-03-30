@@ -17,12 +17,12 @@ Technologies Used
 - GlideRecord (Server-side scripting)
 
 Tables Created
-### 1. Student Table
+1. Student Table
 - Name
 - Email
 - Department (Reference)
 
-### 2. Department Table
+2. Department Table
 - Name
 - Dept Head
 
