@@ -1,22 +1,22 @@
-# 🚀 ServiceNow Project: Automating Data Import & Relationship Mapping
+ServiceNow Project: Automating Data Import & Relationship Mapping
 
-## 📌 Project Overview
+Project Overview
 This project demonstrates how to automate data import and establish relationships between tables using Import Sets and Transform Maps in ServiceNow.
 
-## 🎯 Objectives
+Objectives
 - Import external data into ServiceNow
 - Transform and map data into target tables
 - Automatically create related records
 - Maintain relational integrity
 - Implement dot walking
 
-## 🛠️ Technologies Used
+Technologies Used
 - ServiceNow
 - Import Sets
 - Transform Maps
 - GlideRecord (Server-side scripting)
 
-## 📂 Tables Created
+Tables Created
 ### 1. Student Table
 - Name
 - Email
@@ -26,7 +26,7 @@ This project demonstrates how to automate data import and establish relationship
 - Name
 - Dept Head
 
-## 🔄 Workflow
+Workflow
 1. Created custom tables for Student and Department
 2. Prepared Excel dataset
 3. Loaded data using Import Sets
@@ -37,21 +37,21 @@ This project demonstrates how to automate data import and establish relationship
    - Link student to department
 6. Verified data using dot walking
 
-## 💻 Transform Script
+Transform Script
 See `transform_script.js`
 
-## 📊 Features Implemented
+Features Implemented
 - Automated data import
 - Dynamic record creation
 - Relationship mapping using reference fields
 - Dot walking for related data access
 - Error handling and validation
 
-## 📸 Screenshots
+Screenshots
 Screenshots of implementation are provided in the `/screenshots` folder.
 
-## 📢 Conclusion
+Conclusion
 This project successfully automates data import and ensures proper relationship mapping between tables using ServiceNow features.
 
-## 🔗 GitHub Repository
-(Add your repo link here)
+GitHub Repository
+https://github.com/periyasamy-arch/skillwallet
